@@ -1,0 +1,52 @@
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.deps.json
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.runtimeconfig.json
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.pdb
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Shared.dll
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Shared.pdb
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.csproj.AssemblyReference.cache
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.AssemblyInfoInputs.cache
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.AssemblyInfo.cs
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.csproj.CoreCompileInputs.cache
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayT.A6038AA6.Up2Date
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\refint\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.pdb
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.genruntimeconfig.cache
+C:\Users\bcnzapata\source\repos\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\ref\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.deps.json
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.runtimeconfig.json
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.pdb
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Shared.dll
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Shared.pdb
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.csproj.AssemblyReference.cache
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.AssemblyInfoInputs.cache
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.AssemblyInfo.cs
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayT.A6038AA6.Up2Date
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\refint\BlinKayTest.Infrastructure.SQL.dll
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.pdb
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.genruntimeconfig.cache
+C:\Users\Marc Zapata Moreno\Desktop\BlinKayTest\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\ref\BlinKayTest.Infrastructure.SQL.dll
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.deps.json
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.runtimeconfig.json
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.dll
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Infrastructure.SQL.pdb
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Shared.dll
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\bin\Debug\net8.0\BlinKayTest.Shared.pdb
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.csproj.AssemblyReference.cache
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.AssemblyInfoInputs.cache
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.AssemblyInfo.cs
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.csproj.CoreCompileInputs.cache
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.sourcelink.json
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayT.A6038AA6.Up2Date
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.dll
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\refint\BlinKayTest.Infrastructure.SQL.dll
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.pdb
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\BlinKayTest.Infrastructure.SQL.genruntimeconfig.cache
+C:\Repositories\BlinKay\BlinKayTest.Infrastructure.SQL\obj\Debug\net8.0\ref\BlinKayTest.Infrastructure.SQL.dll

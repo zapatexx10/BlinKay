@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/BlinKayTest/bin/Debug/net8.0
+/.vs
+/BlinKayTest/obj
+/BlinkayTest.Application/bin/Debug/net8.0
+/BlinkayTest.Application/obj
+/BlinKayTest.Contracts/bin/Debug/net8.0
+/BlinKayTest.Contracts/obj
+/BlinKayTest.Infrastructure.SQL/bin/Debug/net8.0
